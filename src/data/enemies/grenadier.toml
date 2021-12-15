@@ -1,0 +1,32 @@
+name = "掷弹兵"
+description = "隶属神罗公司治安维护部门的士兵。主要负责后方支援。以远距离攻击为主，不过也会根据状况改为近距离战斗。"
+method = "持有榴弹发射器等威力强大的火器，以魔法对抗来自远距离的攻击吧。"
+itemsDropped = [
+    "手榴弹",
+]
+rareItemsDropped = [
+    "兴奋剂",
+]
+itemsToSteal = [
+    "手榴弹",
+]
+abilites = [
+    "榴弹发射器",
+]
+
+[hp]
+easy = "45"
+
+[rewards]
+EXP = "26"
+AP = "6"
+GIL = "10"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
