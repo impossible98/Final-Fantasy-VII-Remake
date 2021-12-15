@@ -1,0 +1,36 @@
+name = "猎敌者"
+description = "神罗兵器开发部门制造的自行式对人兵器。平时处于休眠状态，若感应到入侵者，便会迅速启动消灭敌人。"
+method = "造成一定程度的伤害，即可使其更容易陷入力竭。"
+itemsDropped = [
+    "凤凰尾巴",
+]
+rareItemsDropped = [
+    "乙太",
+]
+itemsToSteal = [
+    "乙太",
+]
+abilites = [
+    "烟雾射击（火属性）",
+    "突击",
+    "跃踩",
+]
+[hp]
+easy = "1297"
+
+[rewards]
+EXP = "14"
+AP = "3"
+GIL = "3"
+
+[resistances]
+weaknesses = [
+    "雷属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = [
+    "中毒",
+    "睡眠",
+]
+absorbedElements = []

@@ -17,6 +17,8 @@ function main() {
             console.log(Data.enemiesSecurityOfficerData);
         } else if (answer === 'sentry ray') {
             console.log(Data.enemiesSentryRayData);
+        } else if (answer === 'sweeper') {
+            console.log(Data.enemiesSweeperData);
         }
         rl.close();
     });

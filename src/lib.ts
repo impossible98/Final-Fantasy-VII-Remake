@@ -3,6 +3,7 @@ import {
     enemiesMonodriveData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
+    enemiesSweeperData,
 } from './api/mod';
 
 export const Data = {
@@ -10,4 +11,5 @@ export const Data = {
     enemiesMonodriveData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
+    enemiesSweeperData,
 };
