@@ -1,0 +1,33 @@
+name = "警备兵"
+description = "隶属神罗公司治安维护部门的普通士兵。负责巡逻市区或设施内都，多为经验较少的新兵。"
+method = "战斗能力不高，但懂得多种攻击方法。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "手榴弹",
+]
+itemsToSteal = [
+    "手榴弹",
+]
+abilites = [
+    "机关枪",
+    "手榴弹",
+]
+
+[hp]
+easy = "93"
+
+[rewards]
+EXP = "18"
+AP = "6"
+GIL = "4"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

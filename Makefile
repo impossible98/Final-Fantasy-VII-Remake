@@ -10,10 +10,12 @@ all:
 build: fmt
 	node ./scripts/constants.js
 	npm run dev
+	node ./scripts/copy.js
 
 dev: lint
 	node ./scripts/constants.js
 	npm run dev
+	node ./scripts/copy.js
 	node ./dist/main.js
 
 fmt:
