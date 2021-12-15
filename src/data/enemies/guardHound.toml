@@ -1,0 +1,33 @@
+name = "军事猎犬"
+description = "神罗公司治安维护部门拥有的军犬。会服从训练师的指示，靠优秀的嗅觉找出入侵者的位置，再以敏捷的动作发动攻击。"
+method = "魔法攻击较容易累积力竭量表。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "治疗剂",
+]
+itemsToSteal = [
+    "治疗剂",
+]
+abilites = [
+    "速旋鞭笞",
+    "颈项撕咬",
+]
+
+[hp]
+easy = "519"
+
+[rewards]
+EXP = "26"
+AP = "9"
+GIL = "6"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
