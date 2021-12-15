@@ -16,12 +16,12 @@ abilites = [
 ]
 
 [hp]
-easy = "519"
+easy = "519-534"
 
 [rewards]
-EXP = "26"
+EXP = "26-46"
 AP = "9"
-GIL = "6"
+GIL = "6-8"
 
 [resistances]
 weaknesses = [
