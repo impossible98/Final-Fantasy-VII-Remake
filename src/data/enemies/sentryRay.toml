@@ -1,0 +1,29 @@
+name = "壹号激光炮"
+description = "神罗公司兵器开发部门制造的自律型枪座。配备于魔晄炉等重要设施，一旦感应到可疑人物便会发动攻击。"
+method = "除了无属性与雷属性魔法外无法累积力竭量表。而两者之中，雷属性魔法更容易累积力竭量表。"
+itemsDropped = []
+rareItemsDropped = []
+itemsToSteal = []
+abilites = []
+
+[hp]
+easy = "130"
+
+[rewards]
+EXP = "14"
+AP = "3"
+GIL = "3"
+
+[resistances]
+weaknesses = [
+    "雷属性",
+]
+lesserResistance = []
+greaterResistance = [
+    "风属性",
+]
+immunities = [
+    "中毒",
+    "睡眠",
+]
+absorbedElements = []
