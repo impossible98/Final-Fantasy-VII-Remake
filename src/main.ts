@@ -27,6 +27,8 @@ function main() {
             console.log(Data.enemiesShockTrooperData);
         } else if (answer === 'sweeper') {
             console.log(Data.enemiesSweeperData);
+        } else if (answer === 'the huntsman') {
+            console.log(Data.enemiesTheHuntsmanData);
         }
         rl.close();
     });

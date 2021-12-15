@@ -1,0 +1,32 @@
+name = "部队长贡嘉"
+description = "隶属神罗公司治安维护部门的高级士兵。体格强壮，据说是神罗军中最强的士兵之一，担任部队长负责指挥第捌区市区的士兵。"
+method = "盾牌会弹开来自正面的攻击，从背后或是以魔法进攻吧。只要造成一定程度的伤害，即可使其更容易陷入力竭。"
+itemsDropped = [
+    "手榴弹",
+]
+rareItemsDropped = [
+    "镇静剂",
+]
+itemsToSteal = [
+    "手榴弹",
+]
+abilites = [
+    "电击棒",
+    "盾击",
+]
+[hp]
+easy = "1778"
+
+[rewards]
+EXP = "300"
+AP = "30"
+GIL = "75"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

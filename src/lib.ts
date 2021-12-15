@@ -8,6 +8,7 @@ import {
     enemiesSentryRayData,
     enemiesShockTrooperData,
     enemiesSweeperData,
+    enemiesTheHuntsmanData,
 } from './api/mod';
 
 export const Data = {
@@ -20,4 +21,5 @@ export const Data = {
     enemiesSentryRayData,
     enemiesShockTrooperData,
     enemiesSweeperData,
+    enemiesTheHuntsmanData,
 };
