@@ -11,3 +11,9 @@ make dev
 ```
 make build
 ```
+
+## Start
+
+```
+make start
+```

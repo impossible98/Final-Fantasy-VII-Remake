@@ -1,0 +1,34 @@
+name = "战斗员"
+description = "隶属神罗公司治安维护部门的士兵。身着强化服装，且通过药物强化身体能力，会用两手的钩爪发动攻击。"
+method = "只有他正发动攻击或失去平衡时，使用“战斗”才能有效攻击。趁他力竭时成功以火属性攻击击中，即可引爆“严禁烟火”的部位，对其造成伤害。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "手榴弹",
+]
+itemsToSteal = [
+    "手榴弹",
+]
+abilites = [
+    "前坠踢",
+    "蹬强踢",
+    "空翻踢",
+]
+
+[hp]
+easy = "519"
+
+[rewards]
+EXP = "38"
+AP = "12"
+GIL = "12"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

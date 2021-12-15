@@ -4,6 +4,7 @@ import {
     enemiesScorpionSentinelData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
+    enemiesShockTrooperData,
     enemiesSweeperData,
 } from './api/mod';
 
@@ -13,5 +14,6 @@ export const Data = {
     enemiesScorpionSentinelData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
+    enemiesShockTrooperData,
     enemiesSweeperData,
 };
