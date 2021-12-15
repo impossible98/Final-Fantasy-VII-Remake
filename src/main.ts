@@ -15,6 +15,8 @@ function main() {
             console.log(Data.enemiesGuardHoundData);
         } else if (answer === 'monodrive') {
             console.log(Data.enemiesMonodriveData);
+        } else if (answer === 'riot trooper') {
+            console.log(Data.enemiesRiotTrooperData);
         } else if (answer === 'scorpion sentinel') {
             console.log(Data.enemiesScorpionSentinelData);
         } else if (answer === 'security officer') {

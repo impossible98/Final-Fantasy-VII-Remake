@@ -1,6 +1,7 @@
 import { grenadierData } from './enemies/grenadier';
 import { guardHoundData } from './enemies/guardHound';
 import { monodriveData } from './enemies/monodrive';
+import { riotTrooperData } from './enemies/riotTrooper';
 import { scorpionSentinelData } from './enemies/scorpionSentinel';
 import { securityOfficerData } from './enemies/securityOfficer';
 import { sentryRayData } from './enemies/sentryRay';
@@ -10,6 +11,7 @@ import { sweeperData } from './enemies/sweeper';
 export const enemiesGrenadierData = grenadierData;
 export const enemiesGuardHoundData = guardHoundData;
 export const enemiesMonodriveData = monodriveData;
+export const enemiesRiotTrooperData = riotTrooperData;
 export const enemiesScorpionSentinelData = scorpionSentinelData;
 export const enemiesSecurityOfficerData = securityOfficerData;
 export const enemiesSentryRayData = sentryRayData;

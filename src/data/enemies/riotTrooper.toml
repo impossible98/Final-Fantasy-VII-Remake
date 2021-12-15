@@ -1,0 +1,32 @@
+name = "镇压兵"
+description = "隶属神罗公司治安维护部门的士兵。擅长近距离攻击，且装备有大型盾牌。部署于市区或设施内，负责镇压暴动等工作。"
+method = "盾牌会弹开来自正面的攻击，从背后或是以魔法进攻吧。"
+itemsDropped = [
+    "手榴弹",
+]
+rareItemsDropped = [
+    "镇静剂",
+]
+itemsToSteal = [
+    "手榴弹",
+]
+abilites = [
+    "电击棒",
+]
+
+[hp]
+easy = "89"
+
+[rewards]
+EXP = "40"
+AP = "6"
+GIL = "5"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
