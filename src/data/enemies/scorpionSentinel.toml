@@ -1,0 +1,41 @@
+name = "守卫巨蝎"
+description = "神罗公司兵器开发部门制造的大型警备兵器。同时拥有多脚的高机动力以及众多枪械的强大攻击力。设置在壹号魔晄炉中枢，负责消灭入侵者。"
+method = "展开护盾时无法累积力竭量表。"
+itemsDropped = []
+rareItemsDropped = []
+itemsToSteal = []
+abilites = [
+    "98式机关枪",
+    "99式小型导弹",
+    "电磁力场（雷属性）",
+    "电磁猛踩",
+    "巨蝎爪臂",
+    "横扫（雷属性）",
+    "蝎尾突刺（雷属性）",
+    "搜索目标",
+]
+
+[hp]
+easy = "5188"
+
+[rewards]
+EXP = "200"
+AP = "30"
+GIL = "100"
+
+[resistances]
+weaknesses = [
+    "雷属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = [
+    "中毒",
+    "沉默",
+    "睡眠",
+    "缓慢",
+    "停顿",
+    "狂暴",
+    "比例伤害",
+]
+absorbedElements = []

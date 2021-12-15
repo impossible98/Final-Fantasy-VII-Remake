@@ -1,6 +1,7 @@
 import {
     enemiesGuardHoundData,
     enemiesMonodriveData,
+    enemiesScorpionSentinelData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
     enemiesSweeperData,
@@ -9,6 +10,7 @@ import {
 export const Data = {
     enemiesGuardHoundData,
     enemiesMonodriveData,
+    enemiesScorpionSentinelData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
     enemiesSweeperData,

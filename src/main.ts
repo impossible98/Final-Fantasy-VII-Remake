@@ -13,6 +13,8 @@ function main() {
             console.log(Data.enemiesGuardHoundData);
         } else if (answer === 'monodrive') {
             console.log(Data.enemiesMonodriveData);
+        } else if (answer === 'scorpion sentinel') {
+            console.log(Data.enemiesScorpionSentinelData);
         } else if (answer === 'security officer') {
             console.log(Data.enemiesSecurityOfficerData);
         } else if (answer === 'sentry ray') {
