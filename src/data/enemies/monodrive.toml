@@ -1,0 +1,34 @@
+name = "独眼权杖"
+description = "神罗科学部门创造出的人造生物，内含控制行动的 AI，负责看守魔晄炉。"
+method = "未侦测到攻略情报。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "乙太",
+]
+itemsToSteal = [
+    "乙太",
+]
+abilites = [
+    "火焰（火属性）",
+]
+
+[hp]
+easy = "119"
+
+[rewards]
+EXP = "12"
+AP = "9"
+GIL = "4"
+
+[resistances]
+weaknesses = [
+    "风属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = [
+    "停顿",
+]
+absorbedElements = []

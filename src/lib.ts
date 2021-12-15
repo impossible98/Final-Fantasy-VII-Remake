@@ -1,7 +1,13 @@
-import { enemiesGuardHoundData, enemiesSecurityOfficerData, enemiesSentryRayData } from './api/mod';
+import {
+    enemiesGuardHoundData,
+    enemiesMonodriveData,
+    enemiesSecurityOfficerData,
+    enemiesSentryRayData,
+} from './api/mod';
 
 export const Data = {
     enemiesGuardHoundData,
+    enemiesMonodriveData,
     enemiesSecurityOfficerData,
     enemiesSentryRayData,
 };
