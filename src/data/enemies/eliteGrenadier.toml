@@ -1,0 +1,32 @@
+name = "高级掷弹兵"
+description = "隶属神罗公司治安维护都门，是优异掷弹兵晋升上来的高级士兵。装备自动掷弹枪，部署于重要据点。"
+method = "持有榴弹发射器等威力强大的火器，以魔法对抗来自远距离的攻击吧。"
+itemsDropped = [
+    "手榴弹",
+]
+rareItemsDropped = [
+    "兴奋剂",
+]
+itemsToSteal = [
+    "手榴弹",
+]
+abilites = [
+    "燃烧榴弹发射器（火属性）",
+]
+
+[hp]
+easy = "120"
+
+[rewards]
+EXP = "62"
+AP = "9"
+GIL = "68"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

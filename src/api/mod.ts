@@ -1,6 +1,7 @@
 import {
     ceruleanDrakeData,
     doomratData,
+    eliteGrenadierData,
     eliteSecurityOfficerData,
     gorgerrData,
     grenadierData,
@@ -21,6 +22,7 @@ import {
 
 export const enemiesCeruleanDrakeData = ceruleanDrakeData;
 export const enemiesDoomratData = doomratData;
+export const enemiesEliteGrenadierData = eliteGrenadierData;
 export const enemiesEliteSecurityOfficerData = eliteSecurityOfficerData;
 export const enemiesGorgerrData = gorgerrData;
 export const enemiesGrenadierData = grenadierData;

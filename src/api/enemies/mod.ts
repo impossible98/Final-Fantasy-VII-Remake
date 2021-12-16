@@ -3,6 +3,7 @@ import * as path from 'path';
 
 const ceruleanDrakePath = path.join(__dirname, '..', '..', 'data', 'enemies', 'ceruleanDrake.toml');
 const doomratPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'doomrat.toml');
+const eliteGrenadierPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'eliteGrenadier.toml');
 const eliteSecurityOfficerPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'eliteSecurityOfficer.toml');
 const gorgerPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'gorger.toml');
 const grenadierPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'grenadier.toml');
@@ -22,6 +23,7 @@ const wrathHoundPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'wrat
 
 export const ceruleanDrakeData = fs.readFileSync(ceruleanDrakePath, 'utf8');
 export const doomratData = fs.readFileSync(doomratPath, 'utf8');
+export const eliteGrenadierData = fs.readFileSync(eliteGrenadierPath, 'utf8');
 export const eliteSecurityOfficerData = fs.readFileSync(eliteSecurityOfficerPath, 'utf8');
 export const gorgerrData = fs.readFileSync(gorgerPath, 'utf8');
 export const grenadierData = fs.readFileSync(grenadierPath, 'utf8');
