@@ -14,6 +14,7 @@ import {
     sweeperData,
     theHuntsmanData,
     wereratData,
+    wrathHoundData,
 } from './enemies/mod';
 
 export const enemiesDoomratData = doomratData;
@@ -31,3 +32,4 @@ export const enemiesShockTrooperData = shockTrooperData;
 export const enemiesSweeperData = sweeperData;
 export const enemiesTheHuntsmanData = theHuntsmanData;
 export const enemiesWereratData = wereratData;
+export const enemiesWrathHoundData = wrathHoundData;

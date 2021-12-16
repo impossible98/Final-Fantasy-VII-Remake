@@ -1,0 +1,28 @@
+name = "狂怒猎犬"
+description = "军犬“军事猎犬”的实验体。原本为强化能力而对这些实给体使用药物，它们却因药物副作用而发疯井失去控制。大部分实验体都已被处理，不过有少數幸存下来"
+method = "一般状态下即便发动 ATB 指令也不会退缩，若以特珠攻击击中，则会凶暴化且变得更强，但此时能以 ATB 指令使其退缩。"
+itemsDropped = []
+rareItemsDropped = []
+itemsToSteal = []
+abilites = [
+    "鞭笞戳刺",
+    "冲撞",
+    "颈项撕咬",
+]
+
+[hp]
+easy = "3473"
+
+[rewards]
+EXP = "40"
+AP = "24"
+GIL = "266"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

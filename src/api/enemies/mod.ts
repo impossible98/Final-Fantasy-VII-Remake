@@ -16,6 +16,7 @@ const shockTrooperPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'sh
 const sweeperPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'sweeper.toml');
 const theHuntsmanPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'theHuntsman.toml');
 const wereratPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'wererat.toml');
+const wrathHoundPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'wrathHound.toml');
 
 export const doomratData = fs.readFileSync(doomratPath, 'utf8');
 export const eliteSecurityOfficerData = fs.readFileSync(eliteSecurityOfficerPath, 'utf8');
@@ -32,3 +33,4 @@ export const shockTrooperData = fs.readFileSync(shockTrooperPath, 'utf8');
 export const sweeperData = fs.readFileSync(sweeperPath, 'utf8');
 export const theHuntsmanData = fs.readFileSync(theHuntsmanPath, 'utf8');
 export const wereratData = fs.readFileSync(wereratPath, 'utf8');
+export const wrathHoundData = fs.readFileSync(wrathHoundPath, 'utf8');

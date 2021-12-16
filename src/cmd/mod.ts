@@ -39,6 +39,8 @@ export function main() {
             console.log(Data.enemiesTheHuntsmanData);
         } else if (answer === 'wererat') {
             console.log(Data.enemiesWereratData);
+        } else if (answer === 'wrath hound') {
+            console.log(Data.enemiesWrathHoundData);
         }
         rl.close();
     });
