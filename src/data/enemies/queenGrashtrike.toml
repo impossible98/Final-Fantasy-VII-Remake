@@ -1,0 +1,34 @@
+name = "女王蠕虫"
+description = "大型昆虫“镰足蠕虫”的女王。能产卵并统帅自己盛夏的镰足蠕虫。嘴部会吐出黏性极强的丝保护巢穴不受外敌攻击。"
+method = "造成一定程度的伤害，即可使其更容易陷入力竭。"
+itemsDropped = [
+    "蜘蛛丝",
+]
+rareItemsDropped = [
+    "高级治疗剂",
+]
+itemsToSteal = [
+    "蜘蛛丝",
+]
+abilites = [
+    "飞天狂斩",
+    "毒针（中毒）",
+    "女王之丝（中毒）",
+]
+
+[hp]
+easy = "2884"
+
+[rewards]
+EXP = "306"
+AP = "18"
+GIL = "14"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

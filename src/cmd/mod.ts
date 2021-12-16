@@ -33,6 +33,8 @@ export function main() {
             console.log(Data.enemiesMonodriveData);
         } else if (answer === 'mysterious spectre') {
             console.log(Data.enemiesMysteriousSpectreData);
+        } else if (answer === 'queen grashtrike') {
+            console.log(Data.enemiesQueenGrashtrikeData);
         } else if (answer === 'riot trooper') {
             console.log(Data.enemiesRiotTrooperData);
         } else if (answer === 'roche') {
