@@ -21,6 +21,8 @@ export function main() {
             console.log(Data.enemiesGrenadierData);
         } else if (answer === 'guard hound') {
             console.log(Data.enemiesGuardHoundData);
+        } else if (answer === 'hoodlum') {
+            console.log(Data.enemiesHoodlumData);
         } else if (answer === 'lesser drake') {
             console.log(Data.enemiesLesserDrakeData);
         } else if (answer === 'monodrive') {

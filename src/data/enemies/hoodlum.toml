@@ -1,0 +1,33 @@
+name = "可疑的男人"
+description = "身着印有夸张的龙图案服装的男子。似乎在第柒区贫民窟寻找什么。"
+method = "HP 降低时，会服用禁药变得不容易退缩。药效期间所有攻击皆无法累积力竭量表"
+itemsDropped = [
+    "手榴弹",
+]
+rareItemsDropped = []
+itemsToSteal = [
+    "兴奋剂",
+]
+abilites = [
+    "冲撞",
+    "蜘蛛丝（火属性）",
+    "手榴弹",
+    "背后擒拿",
+]
+
+[hp]
+easy = "449"
+
+[rewards]
+EXP = "84"
+AP = "3"
+GIL = "75"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
