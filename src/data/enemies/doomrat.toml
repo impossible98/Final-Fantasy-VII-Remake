@@ -1,0 +1,28 @@
+name = "怪鼠"
+description = "大型老鼠“变异鼠”的突变体。体型比一般变异鼠还要大，也很聪明。不害怕人类，若伙伴被猎捕，就会前来报复。"
+method = "造成一定程度的伤害，即可使其更容易陷入力竭。"
+itemsDropped = []
+rareItemsDropped = []
+itemsToSteal = []
+abilites = [
+    "滚泥",
+    "啾啾",
+    "拽倒",
+]
+
+[hp]
+easy = "926"
+
+[rewards]
+EXP = "40"
+AP = "9"
+GIL = "114"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

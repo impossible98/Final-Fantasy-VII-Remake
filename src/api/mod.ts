@@ -1,4 +1,5 @@
 import {
+    doomratData,
     eliteSecurityOfficerData,
     gorgerrData,
     grenadierData,
@@ -15,6 +16,7 @@ import {
     wereratData,
 } from './enemies/mod';
 
+export const enemiesDoomratData = doomratData;
 export const enemiesEliteSecurityOfficerData = eliteSecurityOfficerData;
 export const enemiesGorgerrData = gorgerrData;
 export const enemiesGrenadierData = grenadierData;

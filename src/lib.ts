@@ -1,4 +1,5 @@
 import {
+    enemiesDoomratData,
     enemiesEliteSecurityOfficerData,
     enemiesGorgerrData,
     enemiesGrenadierData,
@@ -16,6 +17,7 @@ import {
 } from './api/mod';
 
 export const Data = {
+    enemiesDoomratData,
     enemiesEliteSecurityOfficerData,
     enemiesGorgerrData,
     enemiesGrenadierData,
