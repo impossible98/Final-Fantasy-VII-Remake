@@ -16,12 +16,12 @@ abilites = [
     "跃踩",
 ]
 [hp]
-easy = "1297"
+easy = "1297-1795"
 
 [rewards]
-EXP = "14"
-AP = "3"
-GIL = "3"
+EXP = "14-132"
+AP = "3-15"
+GIL = "3-49"
 
 [resistances]
 weaknesses = [
