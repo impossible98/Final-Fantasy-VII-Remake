@@ -1,0 +1,36 @@
+name = "罗榭"
+description = "隶属神罗公司治安维护部门的士兵。擅长近距离攻击，且装备有大型盾牌。部署于市区或设施内，负责镇压暴动等工作。"
+method = "盾牌会弹开来自正面的攻击，从背后或是以魔法进攻吧。"
+itemsDropped = [
+    "万灵药",
+]
+rareItemsDropped = []
+itemsToSteal = [
+    "万灵药",
+]
+abilites = [
+    "飞翔闪",
+    "镰鼬（风属性）",
+    "真空波（风属性）",
+    "中雷电（雷属性）",
+    "中暴雪（冰属性）",
+    "擦剑爆燃（火属性）",
+    "空翻甩剑",
+]
+
+[hp]
+easy = "4488"
+
+[rewards]
+EXP = "600"
+AP = "30"
+GIL = "255"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

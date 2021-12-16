@@ -8,13 +8,12 @@ const rl = readline.createInterface({
 });
 
 export function main() {
-    rl.question('What do you search for? ', function (answer) {
+    rl.question('What do you search for? ', function(answer) {
         if (answer === 'cerulean drake') {
             console.log(Data.enemiesCeruleanDrakeData);
         } else if (answer === 'doomrat') {
             console.log(Data.enemiesDoomratData);
-        }
-        else if (answer === 'elite security officer') {
+        } else if (answer === 'elite security officer') {
             console.log(Data.enemiesEliteSecurityOfficerData);
         } else if (answer === 'elite grenadier') {
             console.log(Data.enemiesEliteGrenadierData);
@@ -32,6 +31,8 @@ export function main() {
             console.log(Data.enemiesMonodriveData);
         } else if (answer === 'riot trooper') {
             console.log(Data.enemiesRiotTrooperData);
+        } else if (answer === 'roche') {
+            console.log(Data.enemiesRocheData);
         } else if (answer === 'scorpion sentinel') {
             console.log(Data.enemiesScorpionSentinelData);
         } else if (answer === 'security officer') {

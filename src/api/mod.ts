@@ -10,6 +10,7 @@ import {
     lesserDrakeData,
     monodriveData,
     riotTrooperData,
+    rocheData,
     scorpionSentinelData,
     securityOfficerData,
     sentryRayData,
@@ -31,6 +32,7 @@ export const enemiesHoodlumData = hoodlumData;
 export const enemiesLesserDrakeData = lesserDrakeData;
 export const enemiesMonodriveData = monodriveData;
 export const enemiesRiotTrooperData = riotTrooperData;
+export const enemiesRocheData = rocheData;
 export const enemiesScorpionSentinelData = scorpionSentinelData;
 export const enemiesSecurityOfficerData = securityOfficerData;
 export const enemiesSentryRayData = sentryRayData;
