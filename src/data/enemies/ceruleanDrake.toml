@@ -1,0 +1,36 @@
+name = "翼蜥"
+description = "栖息于列车墓地的飞行生物。能四处飞行、使用魔法。"
+method = "以风属性魔法击中，或是造成一定伤書，即可使其更容易陷入力竭。风属性攻击将更容易累积力竭量表。用冰龙卷风包覆自己时，若靠近会受到伤害，此时可以用冰属性以外的魔法短暂封印龙卷风。"
+itemsDropped = [
+    "重力球",
+]
+rareItemsDropped = [
+    "凤凰尾巴",
+]
+itemsToSteal = [
+    "乙太",
+]
+abilites = [
+    "滑翔俯冲",
+    "活体弹弓",
+    "冰霜吐息（冰属性）",
+    "寒冰标记",
+    "冰冻气场（冰属性）",
+]
+
+[hp]
+easy = "1297"
+
+[rewards]
+EXP = "146"
+AP = "15"
+GIL = "76"
+
+[resistances]
+weaknesses = [
+    "风属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
