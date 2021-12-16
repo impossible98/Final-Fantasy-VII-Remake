@@ -29,6 +29,8 @@ export function main() {
             console.log(Data.enemiesLesserDrakeData);
         } else if (answer === 'monodrive') {
             console.log(Data.enemiesMonodriveData);
+        } else if (answer === 'mysterious spectre') {
+            console.log(Data.enemiesMysteriousSpectreData);
         } else if (answer === 'riot trooper') {
             console.log(Data.enemiesRiotTrooperData);
         } else if (answer === 'roche') {

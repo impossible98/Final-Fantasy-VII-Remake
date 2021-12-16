@@ -1,0 +1,31 @@
+name = "不明魔物"
+description = "无法解析……"
+method = "魔法攻击较容易积累力竭量表，物理攻击则难以累积力竭量表。"
+itemsDropped = []
+rareItemsDropped = []
+itemsToSteal = []
+abilites = [
+    "咒缚",
+    "尖刺狙击",
+]
+
+[hp]
+easy = "582"
+
+[rewards]
+EXP = ""
+AP = ""
+GIL = ""
+
+[resistances]
+weaknesses = []
+lesserResistance = []
+greaterResistance = []
+immunities = [
+    "中毒",
+    "沉默",
+    "睡眠",
+    "缓慢",
+    "狂暴",
+]
+absorbedElements = []
