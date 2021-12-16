@@ -11,6 +11,8 @@ export function main() {
     rl.question('What do you search for? ', function(answer) {
         if (answer === 'cerulean drake') {
             console.log(Data.enemiesCeruleanDrakeData);
+        } else if (answer === 'crab warden') {
+            console.log(Data.enemiesCrabWardenData);
         } else if (answer === 'doomrat') {
             console.log(Data.enemiesDoomratData);
         } else if (answer === 'elite security officer') {

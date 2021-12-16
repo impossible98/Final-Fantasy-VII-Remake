@@ -1,5 +1,6 @@
 import {
     enemiesCeruleanDrakeData,
+    enemiesCrabWardenData,
     enemiesDoomratData,
     enemiesEliteGrenadierData,
     enemiesEliteSecurityOfficerData,
@@ -29,6 +30,7 @@ import {
 
 export const Data = {
     enemiesCeruleanDrakeData,
+    enemiesCrabWardenData,
     enemiesDoomratData,
     enemiesEliteGrenadierData,
     enemiesEliteSecurityOfficerData,

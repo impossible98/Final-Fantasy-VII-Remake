@@ -1,0 +1,44 @@
+name = "堆尘机"
+description = "神罗兵器开发部门只在的大型警备兵器。因是活跃于战时的旧机型，所以收在螺旋隧道的仓库内。动作缓慢，但拥有高度防御力及压倒性的强大火力。"
+method = "破坏部位时，能大幅累积力竭量表。"
+itemsDropped = [
+    "金属指虎",
+]
+rareItemsDropped = []
+itemsToSteal = [
+    "火焰鸡尾酒",
+]
+abilites = [
+    "聚能导弹",
+    "电磁力场",
+    "火焰放射（火属性）",
+    "回旋火弹（火属性）",
+    "目标锁定",
+    "请求增援",
+]
+
+[hp]
+easy = "14755"
+
+[rewards]
+EXP = "800"
+AP = "30"
+GIL = "400"
+
+[resistances]
+weaknesses = [
+    "雷属性",
+]
+lesserResistance = [
+    "停顿",
+]
+greaterResistance = []
+immunities = [
+    "中毒",
+    "沉默",
+    "睡眠",
+    "缓慢",
+    "狂暴",
+    "比例伤害",
+]
+absorbedElements = []

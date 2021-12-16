@@ -1,5 +1,6 @@
 import {
     ceruleanDrakeData,
+    crabWardenData,
     doomratData,
     eliteGrenadierData,
     eliteSecurityOfficerData,
@@ -28,6 +29,7 @@ import {
 } from './enemies/mod';
 
 export const enemiesCeruleanDrakeData = ceruleanDrakeData;
+export const enemiesCrabWardenData = crabWardenData;
 export const enemiesDoomratData = doomratData;
 export const enemiesEliteGrenadierData = eliteGrenadierData;
 export const enemiesEliteSecurityOfficerData = eliteSecurityOfficerData;

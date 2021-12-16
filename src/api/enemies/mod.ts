@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 const ceruleanDrakePath = path.join(__dirname, '..', '..', 'data', 'enemies', 'ceruleanDrake.toml');
+const crabWardenPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'crabWarden.toml');
 const doomratPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'doomrat.toml');
 const eliteGrenadierPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'eliteGrenadier.toml');
 const eliteSecurityOfficerPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'eliteSecurityOfficer.toml');
@@ -29,6 +30,7 @@ const wereratPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'wererat
 const wrathHoundPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'wrathHound.toml');
 
 export const ceruleanDrakeData = fs.readFileSync(ceruleanDrakePath, 'utf8');
+export const crabWardenData = fs.readFileSync(crabWardenPath, 'utf8');
 export const doomratData = fs.readFileSync(doomratPath, 'utf8');
 export const eliteGrenadierData = fs.readFileSync(eliteGrenadierPath, 'utf8');
 export const eliteSecurityOfficerData = fs.readFileSync(eliteSecurityOfficerPath, 'utf8');
