@@ -4,6 +4,7 @@ import {
     eliteGrenadierData,
     eliteSecurityOfficerData,
     gorgerrData,
+    grashtrikeData,
     grenadierData,
     guardHoundData,
     hoodlumData,
@@ -28,6 +29,7 @@ export const enemiesDoomratData = doomratData;
 export const enemiesEliteGrenadierData = eliteGrenadierData;
 export const enemiesEliteSecurityOfficerData = eliteSecurityOfficerData;
 export const enemiesGorgerrData = gorgerrData;
+export const enemiesGrashtrikeData = grashtrikeData;
 export const enemiesGrenadierData = grenadierData;
 export const enemiesGuardHoundData = guardHoundData;
 export const enemiesHoodlumData = hoodlumData;

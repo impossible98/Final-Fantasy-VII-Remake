@@ -19,6 +19,8 @@ export function main() {
             console.log(Data.enemiesEliteGrenadierData);
         } else if (answer === 'gorger') {
             console.log(Data.enemiesGorgerrData);
+        } else if (answer === 'grashtrike') {
+            console.log(Data.enemiesGrashtrikeData);
         } else if (answer === 'grenadier') {
             console.log(Data.enemiesGrenadierData);
         } else if (answer === 'guard hound') {

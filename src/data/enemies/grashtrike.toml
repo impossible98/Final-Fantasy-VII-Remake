@@ -1,0 +1,33 @@
+name = "镰足蠕虫"
+description = "喜欢封闭场所或阴暗处的大型昆虫。主要栖息在隧道或圆盘内部。会从口中吐出有黏性的丝，夺走猎物的自由。"
+method = "冰属性攻击较容易累积力竭量表。HP 大幅降低或只剩一只时会展开护盾。"
+itemsDropped = [
+    "蜘蛛丝",
+]
+rareItemsDropped = [
+    "高级治疗剂",
+]
+itemsToSteal = [
+    "蜘蛛丝",
+]
+abilites = [
+    "十字斩",
+    "飞天狂斩",
+]
+
+[hp]
+easy = "618"
+
+[rewards]
+EXP = "106"
+AP = "9"
+GIL = "39"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
