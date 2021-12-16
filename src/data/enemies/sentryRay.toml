@@ -7,12 +7,12 @@ itemsToSteal = []
 abilites = []
 
 [hp]
-easy = "130"
+easy = "130-274"
 
 [rewards]
-EXP = "14"
+EXP = "14-52"
 AP = "3"
-GIL = "3"
+GIL = "3-16"
 
 [resistances]
 weaknesses = [
