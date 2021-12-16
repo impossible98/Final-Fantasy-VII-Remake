@@ -17,8 +17,10 @@ export function main() {
             console.log(Data.enemiesEliteSecurityOfficerData);
         } else if (answer === 'elite grenadier') {
             console.log(Data.enemiesEliteGrenadierData);
+        } else if (answer === 'flametrooper') {
+            console.log(Data.enemiesFlametrooperData);
         } else if (answer === 'gorger') {
-            console.log(Data.enemiesGorgerrData);
+            console.log(Data.enemiesGorgerData);
         } else if (answer === 'grashtrike') {
             console.log(Data.enemiesGrashtrikeData);
         } else if (answer === 'grenadier') {

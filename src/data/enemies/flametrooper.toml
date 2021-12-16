@@ -1,0 +1,35 @@
+name = "重火力兵"
+description = "隶属神罗公司治安维护部门的士兵。装备大范围放射型火焰放射器，负责驱除及扫荡怪物的作战。"
+method = "从背后对其造成一定程度的伤害，即可引爆背上的储油桶，造成大幅伤害。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "高级治疗剂",
+]
+itemsToSteal = [
+    "高级治疗剂",
+]
+abilites = [
+    "火焰放射（火属性）",
+    "爆裂火焰（火属性）",
+]
+
+[hp]
+easy = "618"
+
+[rewards]
+EXP = "208"
+AP = "9"
+GIL = "59"
+
+[resistances]
+weaknesses = [
+    "火属性",
+]
+lesserResistance = [
+    "物理",
+]
+greaterResistance = []
+immunities = []
+absorbedElements = []

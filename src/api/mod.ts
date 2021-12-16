@@ -3,7 +3,8 @@ import {
     doomratData,
     eliteGrenadierData,
     eliteSecurityOfficerData,
-    gorgerrData,
+    flametrooperData,
+    gorgerData,
     grashtrikeData,
     grenadierData,
     guardHoundData,
@@ -29,7 +30,8 @@ export const enemiesCeruleanDrakeData = ceruleanDrakeData;
 export const enemiesDoomratData = doomratData;
 export const enemiesEliteGrenadierData = eliteGrenadierData;
 export const enemiesEliteSecurityOfficerData = eliteSecurityOfficerData;
-export const enemiesGorgerrData = gorgerrData;
+export const enemiesFlametrooperData = flametrooperData;
+export const enemiesGorgerData = gorgerData;
 export const enemiesGrashtrikeData = grashtrikeData;
 export const enemiesGrenadierData = grenadierData;
 export const enemiesGuardHoundData = guardHoundData;
