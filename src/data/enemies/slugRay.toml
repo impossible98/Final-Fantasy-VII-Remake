@@ -1,0 +1,36 @@
+name = "激光扫射机"
+description = "神罗兵器开发部门制造的小型警备兵器。具有控制重力的功能，因此能快速飞行，追踪或攻击入侵者。"
+method = "物理攻击较容易累积力竭量表，只要在飞行模式时造成一定程度的物理伤害，即可将其从空中击落。"
+itemsDropped = [
+    "高级治疗剂",
+]
+rareItemsDropped = [
+    "重力球",
+]
+itemsToSteal = [
+    "重力球",
+]
+abilites = [
+    "触手长枪",
+]
+
+[hp]
+easy = "289"
+
+[rewards]
+EXP = "70"
+AP = "6"
+GIL = "54"
+
+[resistances]
+weaknesses = [
+    "雷属性",
+    "风属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = [
+    "中毒",
+    "睡眠",
+]
+absorbedElements = []

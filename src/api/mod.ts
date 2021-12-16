@@ -16,6 +16,7 @@ import {
     securityOfficerData,
     sentryRayData,
     shockTrooperData,
+    slugRayData,
     sweeperData,
     theHuntsmanData,
     wereratData,
@@ -39,6 +40,7 @@ export const enemiesScorpionSentinelData = scorpionSentinelData;
 export const enemiesSecurityOfficerData = securityOfficerData;
 export const enemiesSentryRayData = sentryRayData;
 export const enemiesShockTrooperData = shockTrooperData;
+export const enemiesSlugRayData = slugRayData;
 export const enemiesSweeperData = sweeperData;
 export const enemiesTheHuntsmanData = theHuntsmanData;
 export const enemiesWereratData = wereratData;

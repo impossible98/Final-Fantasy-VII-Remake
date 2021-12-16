@@ -43,6 +43,8 @@ export function main() {
             console.log(Data.enemiesSentryRayData);
         } else if (answer === 'shock trooper') {
             console.log(Data.enemiesShockTrooperData);
+        } else if (answer === 'slug-ray') {
+            console.log(Data.enemiesSlugRayData);
         } else if (answer === 'sweeper') {
             console.log(Data.enemiesSweeperData);
         } else if (answer === 'the huntsman') {
