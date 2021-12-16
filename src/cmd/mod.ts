@@ -45,6 +45,8 @@ export function main() {
             console.log(Data.enemiesScorpionSentinelData);
         } else if (answer === 'security officer') {
             console.log(Data.enemiesSecurityOfficerData);
+        } else if (answer === 'sentry launcher') {
+            console.log(Data.enemiesSentryLauncherData);
         } else if (answer === 'sentry ray') {
             console.log(Data.enemiesSentryRayData);
         } else if (answer === 'shock trooper') {

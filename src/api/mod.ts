@@ -17,6 +17,7 @@ import {
     rocheData,
     scorpionSentinelData,
     securityOfficerData,
+    sentryLauncherData,
     sentryRayData,
     shockTrooperData,
     slugRayData,
@@ -44,6 +45,7 @@ export const enemiesRiotTrooperData = riotTrooperData;
 export const enemiesRocheData = rocheData;
 export const enemiesScorpionSentinelData = scorpionSentinelData;
 export const enemiesSecurityOfficerData = securityOfficerData;
+export const enemiesSentryLauncherData = sentryLauncherData;
 export const enemiesSentryRayData = sentryRayData;
 export const enemiesShockTrooperData = shockTrooperData;
 export const enemiesSlugRayData = slugRayData;

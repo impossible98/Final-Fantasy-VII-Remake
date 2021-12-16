@@ -1,18 +1,24 @@
-name = "壹号激光炮"
-description = "神罗公司兵器开发部门制造的自律型枪座。配备于魔晄炉等重要设施，一旦感应到可疑人物便会发动攻击。"
+name = "导弹发射器"
+description = "神罗兵器开发部门制造的自律型枪座。底座能旋转，随时搜索周围的敌人，一旦感应到可疑人物便会发射追踪导弹。"
 method = "除了无属性与雷属性魔法外无法累积力竭量表，而两者之中，雷属性魔法更容易累积力竭量表。"
-itemsDropped = []
+itemsDropped = [
+    "重力球",
+]
 rareItemsDropped = []
-itemsToSteal = []
-abilites = []
+itemsToSteal = [
+    "重力球",
+]
+abilites = [
+    "昏眩激光",
+]
 
 [hp]
 easy = "130"
 
 [rewards]
-EXP = "14"
-AP = "3"
-GIL = "3"
+EXP = "154"
+AP = "9"
+GIL = "46"
 
 [resistances]
 weaknesses = [
