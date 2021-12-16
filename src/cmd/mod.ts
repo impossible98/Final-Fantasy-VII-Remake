@@ -9,7 +9,9 @@ const rl = readline.createInterface({
 
 export function main() {
     rl.question('What do you search for? ', function(answer) {
-        if (answer === 'gorger') {
+        if (answer === 'elite security officer') {
+            console.log(Data.enemiesEliteSecurityOfficerData);
+        } else if (answer === 'gorger') {
             console.log(Data.enemiesGorgerrData);
         } else if (answer === 'grenadier') {
             console.log(Data.enemiesGrenadierData);

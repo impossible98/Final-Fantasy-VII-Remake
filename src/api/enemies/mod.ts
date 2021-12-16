@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+const eliteSecurityOfficerPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'eliteSecurityOfficer.toml');
 const gorgerPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'gorger.toml');
 const grenadierPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'grenadier.toml');
 const guardHoundPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'guardHound.toml');
@@ -14,6 +15,7 @@ const sweeperPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'sweeper
 const theHuntsmanPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'theHuntsman.toml');
 const wereratPath = path.join(__dirname, '..', '..', 'data', 'enemies', 'wererat.toml');
 
+export const eliteSecurityOfficerData = fs.readFileSync(eliteSecurityOfficerPath, 'utf8');
 export const gorgerrData = fs.readFileSync(gorgerPath, 'utf8');
 export const grenadierData = fs.readFileSync(grenadierPath, 'utf8');
 export const guardHoundData = fs.readFileSync(guardHoundPath, 'utf8');
