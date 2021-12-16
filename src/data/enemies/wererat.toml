@@ -1,0 +1,33 @@
+name = "变异鼠"
+description = "栖息于贫民窟的巨鼠，在贫民窟四处寻找食物，警戒心极强，总是团体行动。"
+method = "未侦测到攻略情报。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "乙太",
+]
+itemsToSteal = [
+    "解毒剂",
+]
+abilites = [
+    "滚泥",
+    "啾啾",
+]
+
+[hp]
+easy = "185"
+
+[rewards]
+EXP = "38"
+AP = "3"
+GIL = "8"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

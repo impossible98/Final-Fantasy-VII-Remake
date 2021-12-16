@@ -1,4 +1,5 @@
 import {
+    enemiesGorgerrData,
     enemiesGrenadierData,
     enemiesGuardHoundData,
     enemiesMonodriveData,
@@ -9,9 +10,11 @@ import {
     enemiesShockTrooperData,
     enemiesSweeperData,
     enemiesTheHuntsmanData,
+    enemiesWereratData,
 } from './api/mod';
 
 export const Data = {
+    enemiesGorgerrData,
     enemiesGrenadierData,
     enemiesGuardHoundData,
     enemiesMonodriveData,
@@ -22,4 +25,5 @@ export const Data = {
     enemiesShockTrooperData,
     enemiesSweeperData,
     enemiesTheHuntsmanData,
+    enemiesWereratData,
 };

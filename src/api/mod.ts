@@ -1,14 +1,19 @@
-import { grenadierData } from './enemies/grenadier';
-import { guardHoundData } from './enemies/guardHound';
-import { monodriveData } from './enemies/monodrive';
-import { riotTrooperData } from './enemies/riotTrooper';
-import { scorpionSentinelData } from './enemies/scorpionSentinel';
-import { securityOfficerData } from './enemies/securityOfficer';
-import { sentryRayData } from './enemies/sentryRay';
-import { shockTrooperData } from './enemies/shockTrooper';
-import { sweeperData } from './enemies/sweeper';
-import { theHuntsmanData } from './enemies/theHuntsman';
+import {
+    gorgerrData,
+    grenadierData,
+    guardHoundData,
+    monodriveData,
+    riotTrooperData,
+    scorpionSentinelData,
+    securityOfficerData,
+    sentryRayData,
+    shockTrooperData,
+    sweeperData,
+    theHuntsmanData,
+    wereratData,
+} from './enemies/mod';
 
+export const enemiesGorgerrData = gorgerrData;
 export const enemiesGrenadierData = grenadierData;
 export const enemiesGuardHoundData = guardHoundData;
 export const enemiesMonodriveData = monodriveData;
@@ -19,3 +24,4 @@ export const enemiesSentryRayData = sentryRayData;
 export const enemiesShockTrooperData = shockTrooperData;
 export const enemiesSweeperData = sweeperData;
 export const enemiesTheHuntsmanData = theHuntsmanData;
+export const enemiesWereratData = wereratData;
