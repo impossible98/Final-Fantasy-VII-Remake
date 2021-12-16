@@ -1,0 +1,34 @@
+name = "巨口噬虫"
+description = "栖息地遍布整座贫民窟的大型昆虫。时常成群行动，不知会啃食贫民窟的厨余，甚至会试图猎食小动物和人类。"
+method = "未侦测到攻略情报。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "解毒药",
+]
+itemsToSteal = [
+    "解毒药",
+]
+abilites = [
+    "镰刀",
+    "钳足镰刀",
+]
+
+[hp]
+easy = "208"
+
+[rewards]
+EXP = "58"
+AP = "9"
+GIL = "29"
+
+[resistances]
+weaknesses = [
+    "冰属性",
+    "魔法",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []
