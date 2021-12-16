@@ -1,0 +1,33 @@
+name = "小型翼龙"
+description = "栖息于贫民窟的飞行生物，能四处飞行、使用魔法。体型较小，常常贴近地面飞行。"
+method = "以风属性攻击更容易累积力竭量表。只要以魔法攻击击中，它便会盘旋在低空一段时间。"
+itemsDropped = [
+    "治疗剂",
+]
+rareItemsDropped = [
+    "重力球",
+]
+itemsToSteal = [
+    "凤凰尾巴",
+]
+abilites = [
+    "龙卷风（风属性）",
+    "狂风护盾（风属性）",
+]
+
+[hp]
+easy = "648"
+
+[rewards]
+EXP = "104"
+AP = "9"
+GIL = "60"
+
+[resistances]
+weaknesses = [
+    "风属性",
+]
+lesserResistance = []
+greaterResistance = []
+immunities = []
+absorbedElements = []

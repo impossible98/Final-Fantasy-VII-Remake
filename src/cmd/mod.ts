@@ -17,6 +17,8 @@ export function main() {
             console.log(Data.enemiesGrenadierData);
         } else if (answer === 'guard hound') {
             console.log(Data.enemiesGuardHoundData);
+        } else if (answer === 'lesser drake') {
+            console.log(Data.enemiesLesserDrakeData);
         } else if (answer === 'monodrive') {
             console.log(Data.enemiesMonodriveData);
         } else if (answer === 'riot trooper') {

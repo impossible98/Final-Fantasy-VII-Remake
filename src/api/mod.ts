@@ -3,6 +3,7 @@ import {
     gorgerrData,
     grenadierData,
     guardHoundData,
+    lesserDrakeData,
     monodriveData,
     riotTrooperData,
     scorpionSentinelData,
@@ -18,6 +19,7 @@ export const enemiesEliteSecurityOfficerData = eliteSecurityOfficerData;
 export const enemiesGorgerrData = gorgerrData;
 export const enemiesGrenadierData = grenadierData;
 export const enemiesGuardHoundData = guardHoundData;
+export const enemiesLesserDrakeData = lesserDrakeData;
 export const enemiesMonodriveData = monodriveData;
 export const enemiesRiotTrooperData = riotTrooperData;
 export const enemiesScorpionSentinelData = scorpionSentinelData;
